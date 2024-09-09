@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "6dd768da-aeb2-4eda-a373-654be5189b10",
+    "name": "Ernestine Bernier",
+    "phone": "597.562.5728 x32243",
+    "email": "Gerda_Goodwin@gmail.com",
+    "job": "National Accounts Executive"
+  },
+  {
+    "id": "f9cf3b09-857f-4c92-8627-431a7837ab9f",
+    "name": "Roxanne Hagenes",
+    "phone": "862.860.9336 x28031",
+    "email": "Deion.Kling35@yahoo.com",
+    "job": "Investor Interactions Engineer"
+  },
+  {
+    "id": "85d96758-d2a8-4e2c-aefb-7b24df405d68",
+    "name": "Ms. Misty Altenwerth",
+    "phone": "(691) 355-1709 x2394",
+    "email": "Demetrius_Gleichner-Stiedemann86@yahoo.com",
+    "job": "International Interactions Strategist"
+  },
+  {
+    "id": "843e3eb1-094a-4a71-88e9-073d4cfd6b89",
+    "name": "Ismael Bauch",
+    "phone": "(626) 344-0504",
+    "email": "Odessa_Runte@yahoo.com",
+    "job": "Internal Marketing Director"
+  }
+]
